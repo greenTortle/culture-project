@@ -1,0 +1,1 @@
+var e=[`sa`,`a`,`d`,`sd`],t={sa:`Strongly agree`,a:`Agree`,d:`Disagree`,sd:`Strongly disagree`};export{t as n,e as t};
